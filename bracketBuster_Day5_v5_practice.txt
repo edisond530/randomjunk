@@ -1,0 +1,44 @@
+{
+  "Replace": {
+    "bridesmaids": {
+      "position": 0,
+      "MenuCard": {
+        "CardConfig": "bridesmaids",
+        "Size": 2,
+        "MetaData": {
+          "UnlockLevel": 1
+        }
+      }
+    },
+    "munsterslightninglab": {
+      "position": 1,
+      "MenuCard": {
+        "CardConfig": "munsterslightninglab",
+        "Size": 2,
+        "MetaData": {
+          "UnlockLevel": 1
+        }
+      }
+    },
+    "screamineaglesmultiboost": {
+      "position": 2,
+      "MenuCard": {
+        "CardConfig": "screamineaglesmultiboost",
+        "Size": 2,
+        "MetaData": {
+          "UnlockLevel": 1
+        }
+      }
+    },
+    "luckymei": {
+      "position": 3,
+      "MenuCard": {
+        "CardConfig": "luckymei",
+        "Size": 2,
+        "MetaData": {
+          "UnlockLevel": 1
+        }
+      }
+    }
+  }
+}
