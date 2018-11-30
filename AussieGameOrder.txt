@@ -1,0 +1,44 @@
+{
+  "Replace": {
+    "kangaroocountry": {
+      "position": 0,
+      "MenuCard": {
+        "CardConfig": "kangaroocountry",
+        "Size": 2,
+        "MetaData": {
+          "UnlockLevel": 1
+        }
+      }
+    },
+    "buffalo": {
+      "position": 1,
+      "MenuCard": {
+        "CardConfig": "buffalo",
+        "Size": 2,
+        "MetaData": {
+          "UnlockLevel": 1
+        }
+      }
+    },
+    "excalibur": {
+      "position": 2,
+      "MenuCard": {
+        "CardConfig": "excalibur",
+        "Size": 2,
+        "MetaData": {
+          "UnlockLevel": 1
+        }
+      }
+    },
+    "luckymei": {
+      "position": 3,
+      "MenuCard": {
+        "CardConfig": "luckymei",
+        "Size": 2,
+        "MetaData": {
+          "UnlockLevel": 1
+        }
+      }
+    }
+  }
+}
